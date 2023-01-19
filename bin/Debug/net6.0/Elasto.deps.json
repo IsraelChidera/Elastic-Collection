@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Elasto/1.0.0": {
+        "dependencies": {
+          "Elasto-lib": "1.0.0"
+        },
+        "runtime": {
+          "Elasto.dll": {}
+        }
+      },
+      "Elasto-lib/1.0.0": {
+        "runtime": {
+          "Elasto-lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Elasto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Elasto-lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

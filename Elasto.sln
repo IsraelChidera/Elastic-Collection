@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elasto", "Elasto.csproj", "{EC4F6B9B-662A-4988-BEED-6F92559208BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elasto-lib", "..\Elasto-lib\Elasto-lib.csproj", "{0FAD8FE8-FCD4-438C-B838-F3A67F65638F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4F6B9B-662A-4988-BEED-6F92559208BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4F6B9B-662A-4988-BEED-6F92559208BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4F6B9B-662A-4988-BEED-6F92559208BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4F6B9B-662A-4988-BEED-6F92559208BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FAD8FE8-FCD4-438C-B838-F3A67F65638F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FAD8FE8-FCD4-438C-B838-F3A67F65638F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FAD8FE8-FCD4-438C-B838-F3A67F65638F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FAD8FE8-FCD4-438C-B838-F3A67F65638F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B90E7B-859C-4D61-B5D9-4037F4C7E9C5}
+	EndGlobalSection
+EndGlobal
